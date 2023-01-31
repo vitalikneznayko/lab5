@@ -90,8 +90,8 @@ body {
 }
 
 @keyframes show {
-  from { opacity: 0; width: 80%; }
-  to { opacity: 1; width: 55%; }
+  from { opacity: 0;}
+  to { opacity: 1;}
 }
 
 .auto-item {
